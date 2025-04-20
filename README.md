@@ -7,16 +7,19 @@ Hello! I'm **FragAverage**, a passionate developer and technology enthusiast. I 
 ## 🚀 Skills & Interests
 
 - **Languages:**  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)  
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
-  ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat)
+  ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat)  
+  ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=flat)
 
 - **Technologies:**  
+  ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat)  
   ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)  
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat)  
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 
 - **Interests:**  
+  - SaaS  
   - Open Source Contributions  
   - Game Development  
   - Cloud Computing  
@@ -26,14 +29,8 @@ Hello! I'm **FragAverage**, a passionate developer and technology enthusiast. I 
 
 ![FragAverage's GitHub stats](https://github-readme-stats.vercel.app/api?username=FragAverage&show_icons=true&theme=radical)
 
-## 🌱 Currently Learning
-
-- Advanced Machine Learning Techniques
-- Kubernetes for container orchestration
-- Building scalable web applications
-
 ## 💬 Connect With Me
-  
+
 - **Twitter:** [@FragAverage](https://twitter.com/jamiedavies_dev)
 
 ---
