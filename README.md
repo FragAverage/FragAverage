@@ -31,7 +31,7 @@ Hello! I'm **FragAverage**, a passionate developer and technology enthusiast. I 
 
 ## 💬 Connect With Me
 
-- **Twitter:** [@FragAverage](https://twitter.com/jamiedavies_dev)
+- **Twitter:** [@jamiedavies_dev](https://twitter.com/jamiedavies_dev)
 
 ---
 
